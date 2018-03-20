@@ -18,9 +18,8 @@ A DatePicker integrated with <a href="https://angular.io/">Angular</a> and <a hr
 2. [Installation instructions](#installation-instructions)
 3. [Usage & Demo](#usage--demo)
 4. [API](#api)
-5. [Troubleshooting](#troubleshooting)
-6. [Contributing](#contribution)
-7. [License](#license)
+5. [Contributing](#contribution)
+
 
 # Getting Started
 
@@ -48,6 +47,9 @@ To enable bootstrap 4 theme templates in ang5-bootstrap-datepicker, please read
 
 Main source of API documentation and usage scenarios available here:
 [https://](https://)
+
+# API
+Check demo page for API [reference](https://)
 
 # Contribution
 
