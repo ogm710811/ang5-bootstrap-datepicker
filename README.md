@@ -53,4 +53,4 @@ Main source of API documentation and usage scenarios available here:
 
 Are very welcome! And remember, contribution is not only PRs and code, but any help with docs or helping other developers to solve issues are very appreciated! Thanks in advance!
 
-Please read our [contribution guidelines](https://).
+Please read our [contribution guidelines](https://github.com/ogm710811/ang5-bootstrap-datepicker/blob/master/CONTRIBUTING.md).
